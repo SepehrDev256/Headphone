@@ -1,2 +1,2 @@
 # Headphone
-Create Headphone Project with HTML &amp; CSS &amp; JavaScript
+Create Headphone Project with HTML &amp; CSS
